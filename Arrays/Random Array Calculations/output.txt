@@ -1,0 +1,6 @@
+Name 	Test 1	Test 2	Test 3	Average
+Charlotte	80        75        86        80.3
+Chloe	67        93        92        84.0
+Elizabeth	91        71        97        86.3
+Grace	77        86        95        86.0
+Liam	     89        84        71        81.3
